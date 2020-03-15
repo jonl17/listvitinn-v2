@@ -1,1 +1,16 @@
-# Basic starter for a Gatsby Project, using Typescript
+# Listvitinn
+
+stack:
+
+- react/redux
+- gatsby
+- styled-components
+- firebase
+- typescript
+
+todo:
+
+- [x] setup firebase
+- [x] setup contentful
+- [x] setup redux store
+- [x] platform detection
